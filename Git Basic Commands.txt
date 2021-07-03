@@ -6,6 +6,8 @@ git commit -m "first commit"
  
 git remote add origin https://github.com/c0ldlimit/vimcolors.git
 git push -u origin master or  git push origin master  //creates new master branch
+
+Note: the -u switch will remember you remote branch name, so the subsequent push only need 'git push' alone.
 ****************
 OR
 ****************
