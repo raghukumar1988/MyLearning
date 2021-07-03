@@ -1,0 +1,15 @@
+git init
+git add README.md
+git commit -m "first commit"
+
+# Push an existing repository from the command line
+ 
+git remote add origin https://github.com/c0ldlimit/vimcolors.git
+git push -u origin master or  git push origin master  //creates new master branch
+****************
+OR
+****************
+
+git branch -M main  //create new main branch
+git remote add origin https://github.com/raghukumar1988/TestRepo.git
+git push -u origin main
