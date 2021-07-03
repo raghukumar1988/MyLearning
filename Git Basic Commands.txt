@@ -15,3 +15,5 @@ OR
 git branch -M main  //create new main branch
 git remote add origin https://github.com/raghukumar1988/TestRepo.git
 git push -u origin main
+
+Note: To get udpated change from git, DO 'git fetch' and 'git pull'.
